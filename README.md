@@ -33,7 +33,7 @@ import numpy as np
 ##### •	Create new columns: df['new_col'] = df['col1'] * 10.
 ##### •	Remove columns using df.drop('column_name', axis=1).
 ##### •	Rename columns using df.rename(columns={'old_name': 'new_name'}).
-**#####**Step 8: Data Sorting and Aggregation 
+#####  Step 8: Data Sorting and Aggregation 
 ##### •	Sort data using .sort_values(by='column', ascending=False).
 ##### •	Aggregate data using .groupby('column').agg({'col': 'mean'}).
 ### Step 9: Indexing Operations 
