@@ -8,9 +8,12 @@
 ##### •	Install Pandas using: pip install pandas
 ##### •	Install NumPy using: pip install numpy
 ##### •	Import them as follows:
-python
-import pandas as pd  
-import numpy as np  
+####python
+
+####import pandas as pd
+
+####import numpy as np  
+
 ### Step 3: Data Loading (Ingestion)
 ##### •	Load datasets from CSV files using pd.read_csv().
 ### Step 4: Data Exploration 
