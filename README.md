@@ -1,10 +1,9 @@
 # Pandas
 
-
 Mastering Pandas and NumPy for Data Analysis
 This project focuses on data preprocessing, manipulation, and analysis using Pandas and NumPy in Python. Below are the key steps involved:
 
-Step 1: Overview
+**Step 1: Overview**
 Pandas is a powerful Python library designed for efficient data handling and analysis.
 
 NumPy supports high-performance numerical computations and forms the core of Pandas operations.
